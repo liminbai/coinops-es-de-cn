@@ -2,8 +2,7 @@
     Variant - Default
 -->
 
-<theme>       
-    
+<theme>
         <view name="system">
             <image name="systembackgroundoverlay">
                 <path>${rootpath}/_inc/images/paneloverlay.png</path>
@@ -41,7 +40,6 @@
              </text>
         </view>
 
-
         <view name="gamelist">
             <image name="fanarthue">
                 <pos>1 1</pos>
@@ -60,7 +58,7 @@
                 <pos>.58 .99</pos>
                 <origin>.5 1</origin>
                 <maxSize>.18 .30</maxSize>
-                <imageType>cover</imageType>
+                <imageType>3dbox</imageType>
                 <zIndex>65</zIndex>
             </image>
             <text name="nametext">
@@ -108,7 +106,6 @@
                 <controllerSize>1</controllerSize>
                 <zIndex>65</zIndex>
             </badges>
-
 
             <rating name="ratinggraphic">
                 <pos>.6765 .865</pos>
@@ -188,7 +185,7 @@
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
-                <text>System:</text>
+                <text>${langLabelSystem}:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <metadataElement>true</metadataElement>
@@ -205,7 +202,7 @@
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <zIndex>65</zIndex>
-            </text>   
+            </text>
              <text name="releasedate">
                 <pos>.78 .9</pos>
                 <origin>0 .5</origin>
@@ -213,7 +210,7 @@
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
-                <text>Release Date:</text>
+                <text>${langLabelReleasedate}:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <metadataElement>true</metadataElement>
@@ -239,7 +236,8 @@
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
-                <text>Play Count:</text>
+                <!--<text>Play Count:</text>-->
+                <text>${langLabelPlayers}:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <metadataElement>true</metadataElement>
@@ -263,7 +261,8 @@
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
-                <text>Last Played:</text>
+                <!-->Last Played:</text>-->
+                <text>${langLabelLastPlayed}:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <metadataElement>true</metadataElement>

@@ -4,6 +4,8 @@
 -->
 
 <theme>
+    <include>./languages.xml</include>
+    
     <variant name="Simple">
         <include>./simple.xml</include>
         <include>./gamecarousel.xml</include>

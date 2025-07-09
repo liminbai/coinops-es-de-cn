@@ -4,8 +4,7 @@
 
 <theme> 
 
-<include>./navigationsounds.xml</include>
-
+    <include>./navigationsounds.xml</include>
     <include>${rootpath}/_inc/systems/system-metadata/_default.xml</include>
     <include>${rootpath}/_inc/systems/system-metadata/${system.theme}.xml</include>
 
@@ -181,7 +180,6 @@
          </image>
     </view>
 	
-    
     <aspectRatio name="16:10">
         <view name="gamelist">
             <image name="cabinetimage">

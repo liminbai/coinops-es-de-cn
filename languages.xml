@@ -1,0 +1,30 @@
+<theme>
+    <!-- Defaults, used for en_US and en_GB -->
+    <variables>
+        <langLabelRating>Rating</langLabelRating>
+        <langLabelReleasedate>Release Date</langLabelReleasedate>
+        <langLabelPlayers>Players</langLabelPlayers>
+        <langLabelGenre>Genre</langLabelGenre>
+        <langLabelDeveloper>Developer</langLabelDeveloper>
+        <langLabelPublisher>Publisher</langLabelPublisher>
+        <langLabelLastPlayed>Last Played</langLabelLastPlayed>
+        <langLabelSystem>System</langLabelSystem>
+        <langCustomCollections>Custom Collections</langCustomCollections>
+        <langYourCollections>Your Collections</langYourCollections>
+    </variables>
+   
+    <language name="zh_CN">
+        <variables>
+            <langLabelRating>评分</langLabelRating>
+            <langLabelReleasedate>发行日</langLabelReleasedate>
+            <langLabelPlayers>玩家</langLabelPlayers>
+            <langLabelGenre>分类</langLabelGenre>
+            <langLabelDeveloper>开发者</langLabelDeveloper>
+            <langLabelPublisher>发行商</langLabelPublisher>
+            <langLabelLastPlayed>最后游玩</langLabelLastPlayed>
+            <langLabelSystem>系统</langLabelSystem>
+            <langCustomCollections>自定义收藏</langCustomCollections>
+            <langYourCollections>您的收藏</langYourCollections>
+        </variables>
+    </language>
+</theme>
