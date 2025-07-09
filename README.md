@@ -6,7 +6,7 @@ This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, a
 
 | System View | Gamelist View |
 |----|----|
-| ![Base Profile Screenshot 2023 04 21 - 20 11 03 68](https://user-images.githubusercontent.com/39314057/233753948-e11d35ac-d8a6-44dd-8e16-a787bcc3eec6.png) | ![Base Profile Screenshot 2023 04 21 - 20 11 17 86](https://user-images.githubusercontent.com/39314057/233753951-3a1f60e7-46ff-48dd-99ce-6f72f5b2d282.png) |
+| ![Base Profile Screenshot 2025 07 09](./readme/dbc82c3d06d633ff6d22482034b146a.png) | ![Base Profile Screenshot 2025 07 09](./readme/948329850ad39b13fe6542dd9f2e4b4.png) |
 
 ## **Configuration Options**
 
