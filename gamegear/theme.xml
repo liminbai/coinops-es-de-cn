@@ -4,6 +4,7 @@
 -->
 
 <theme>
+    <include>./../languages.xml</include>
 
     <variables>
 	    <rootpath1>./../</rootpath1>
